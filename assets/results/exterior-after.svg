@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title">
+  <title id="title">Exterior auto dupa detailing</title>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f4f4f1"/>
+      <stop offset="1" stop-color="#aab4bd"/>
+    </linearGradient>
+    <linearGradient id="car" x1="0" x2="1">
+      <stop offset="0" stop-color="#fafafa"/>
+      <stop offset=".45" stop-color="#d8dde2"/>
+      <stop offset="1" stop-color="#111"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg)"/>
+  <rect y="520" width="1200" height="230" fill="#202020"/>
+  <path d="M163 476c32-108 118-169 245-178l92-92h229l101 94c118 10 190 68 218 176l-54 46H217l-54-46Z" fill="url(#car)"/>
+  <path d="M466 245h225l70 63H404l62-63Z" fill="#101418"/>
+  <path d="M318 384h559c54 0 96 40 103 93H215c7-53 49-93 103-93Z" fill="#f6f6f2"/>
+  <circle cx="338" cy="520" r="86" fill="#080808"/>
+  <circle cx="338" cy="520" r="42" fill="#cfd5da"/>
+  <circle cx="854" cy="520" r="86" fill="#080808"/>
+  <circle cx="854" cy="520" r="42" fill="#cfd5da"/>
+  <path d="M242 425c178-34 391-36 638-8" fill="none" stroke="#fff" stroke-width="18" opacity=".82"/>
+  <path d="M281 338c163-20 355-22 577-6" fill="none" stroke="#ffffff" stroke-width="11" opacity=".68"/>
+  <g fill="#ffffff" opacity=".9">
+    <path d="M242 171l22 48 48 22-48 22-22 48-22-48-48-22 48-22 22-48Z"/>
+    <path d="M984 249l16 34 34 16-34 16-16 34-16-34-34-16 34-16 16-34Z"/>
+    <path d="M802 111l12 26 26 12-26 12-12 26-12-26-26-12 26-12 12-26Z"/>
+  </g>
+</svg>

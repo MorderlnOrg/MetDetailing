@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title">
+  <title id="title">Interior auto inainte de curatare</title>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#4d4640"/>
+      <stop offset="1" stop-color="#1c1a18"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg)"/>
+  <path d="M93 415c143-81 304-121 483-121 199 0 370 41 514 124v332H93V415Z" fill="#25221f"/>
+  <path d="M205 185h304c37 0 67 30 67 67v498H138V252c0-37 30-67 67-67Z" fill="#34302b"/>
+  <path d="M682 185h304c37 0 67 30 67 67v498H615V252c0-37 30-67 67-67Z" fill="#332f2a"/>
+  <path d="M195 280h324v238H195zM672 280h324v238H672z" fill="#24211e"/>
+  <path d="M260 583h679c48 0 87 39 87 87v80H173v-80c0-48 39-87 87-87Z" fill="#171615"/>
+  <g fill="#9c8b72" opacity=".62">
+    <circle cx="291" cy="332" r="22"/>
+    <circle cx="430" cy="458" r="18"/>
+    <circle cx="758" cy="353" r="20"/>
+    <circle cx="912" cy="501" r="18"/>
+    <circle cx="571" cy="641" r="28"/>
+  </g>
+  <g stroke="#b3a082" stroke-linecap="round" opacity=".52">
+    <path d="M250 250c61 50 154 80 279 91" stroke-width="13"/>
+    <path d="M681 257c89 38 184 55 286 52" stroke-width="11"/>
+    <path d="M261 641c170 34 357 36 560 6" stroke-width="12"/>
+  </g>
+</svg>

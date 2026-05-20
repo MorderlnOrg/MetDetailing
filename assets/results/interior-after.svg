@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title">
+  <title id="title">Interior auto dupa curatare</title>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7f5f0"/>
+      <stop offset="1" stop-color="#d5d9dd"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg)"/>
+  <path d="M93 415c143-81 304-121 483-121 199 0 370 41 514 124v332H93V415Z" fill="#222"/>
+  <path d="M205 185h304c37 0 67 30 67 67v498H138V252c0-37 30-67 67-67Z" fill="#2a2a2a"/>
+  <path d="M682 185h304c37 0 67 30 67 67v498H615V252c0-37 30-67 67-67Z" fill="#292929"/>
+  <path d="M195 280h324v238H195zM672 280h324v238H672z" fill="#111"/>
+  <path d="M260 583h679c48 0 87 39 87 87v80H173v-80c0-48 39-87 87-87Z" fill="#121212"/>
+  <path d="M230 239c118 49 232 62 341 38" fill="none" stroke="#ffffff" stroke-width="12" opacity=".52"/>
+  <path d="M660 248c135 41 257 40 366-2" fill="none" stroke="#ffffff" stroke-width="10" opacity=".5"/>
+  <path d="M290 630c162 24 350 25 564 4" fill="none" stroke="#ffffff" stroke-width="12" opacity=".45"/>
+  <g fill="#ffffff" opacity=".88">
+    <path d="M162 149l18 39 39 18-39 18-18 39-18-39-39-18 39-18 18-39Z"/>
+    <path d="M997 157l17 36 36 17-36 17-17 36-17-36-36-17 36-17 17-36Z"/>
+    <path d="M552 89l12 25 25 12-25 12-12 25-12-25-25-12 25-12 12-25Z"/>
+  </g>
+</svg>

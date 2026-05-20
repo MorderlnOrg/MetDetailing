@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title">
+  <title id="title">Exterior auto inainte de detailing</title>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#5b5b55"/>
+      <stop offset="1" stop-color="#1b1b1b"/>
+    </linearGradient>
+    <linearGradient id="car" x1="0" x2="1">
+      <stop offset="0" stop-color="#4c4b45"/>
+      <stop offset="1" stop-color="#181818"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg)"/>
+  <rect y="520" width="1200" height="230" fill="#222"/>
+  <path d="M163 476c32-108 118-169 245-178l92-92h229l101 94c118 10 190 68 218 176l-54 46H217l-54-46Z" fill="url(#car)"/>
+  <path d="M466 245h225l70 63H404l62-63Z" fill="#2b3033"/>
+  <path d="M318 384h559c54 0 96 40 103 93H215c7-53 49-93 103-93Z" fill="#383631"/>
+  <circle cx="338" cy="520" r="86" fill="#111"/>
+  <circle cx="338" cy="520" r="42" fill="#55514a"/>
+  <circle cx="854" cy="520" r="86" fill="#111"/>
+  <circle cx="854" cy="520" r="42" fill="#55514a"/>
+  <path d="M221 448c79-20 191-28 338-24 150 5 270 18 360 40" fill="none" stroke="#8a8378" stroke-width="18" opacity=".45"/>
+  <g fill="#9c8f78" opacity=".58">
+    <circle cx="255" cy="314" r="26"/>
+    <circle cx="705" cy="412" r="18"/>
+    <circle cx="802" cy="266" r="20"/>
+    <circle cx="566" cy="491" r="14"/>
+    <circle cx="952" cy="421" r="24"/>
+  </g>
+  <g stroke="#b9aa8a" stroke-linecap="round" opacity=".48">
+    <path d="M178 209c130 34 238 51 325 50" stroke-width="13"/>
+    <path d="M660 180c148 16 250 51 306 104" stroke-width="11"/>
+    <path d="M402 587c192 21 355 16 489-15" stroke-width="10"/>
+  </g>
+</svg>

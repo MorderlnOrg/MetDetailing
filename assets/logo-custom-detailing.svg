@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">CUSTOM Detailing Auto Mobil</title>
+  <desc id="desc">Logo circular negru cu icon alb de masina, pin si spuma.</desc>
+  <rect width="512" height="512" fill="none"/>
+  <circle cx="256" cy="256" r="235" fill="#050505"/>
+  <g fill="#fff">
+    <circle cx="198" cy="118" r="16"/>
+    <circle cx="218" cy="94" r="12"/>
+    <circle cx="245" cy="80" r="10"/>
+    <circle cx="278" cy="77" r="12"/>
+    <circle cx="308" cy="89" r="15"/>
+    <circle cx="329" cy="113" r="18"/>
+    <circle cx="343" cy="144" r="16"/>
+    <circle cx="183" cy="151" r="16"/>
+    <circle cx="178" cy="185" r="14"/>
+    <circle cx="337" cy="179" r="13"/>
+  </g>
+  <path
+    d="M256 102c-58 0-105 45-105 101 0 79 105 167 105 167s105-88 105-167c0-56-47-101-105-101Z"
+    fill="#fff"
+  />
+  <path
+    d="M190 203c5-28 29-49 66-49s61 21 66 49l9 7c8 6 13 15 13 25v44c0 7-6 13-13 13h-19c-7 0-13-6-13-13v-9h-86v9c0 7-6 13-13 13h-19c-7 0-13-6-13-13v-44c0-10 5-19 13-25l9-7Z"
+    fill="#050505"
+  />
+  <path d="M211 207h90l-7-22c-3-10-13-17-24-17h-28c-11 0-21 7-24 17l-7 22Z" fill="#fff"/>
+  <circle cx="212" cy="242" r="13" fill="#fff"/>
+  <circle cx="300" cy="242" r="13" fill="#fff"/>
+  <rect x="229" y="231" width="54" height="12" rx="6" fill="#fff"/>
+  <text
+    x="256"
+    y="386"
+    fill="#fff"
+    font-family="Impact, Arial Black, sans-serif"
+    font-size="72"
+    font-weight="900"
+    text-anchor="middle"
+  >CUSTOM</text>
+  <text
+    x="256"
+    y="427"
+    fill="#fff"
+    font-family="Arial, sans-serif"
+    font-size="24"
+    font-weight="900"
+    letter-spacing="2"
+    text-anchor="middle"
+  >DETAILING AUTO MOBIL</text>
+</svg>

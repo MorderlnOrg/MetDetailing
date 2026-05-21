@@ -69,7 +69,7 @@ document.querySelectorAll('a[href^="#"]').forEach((link) => {
 
 const bookingForm = document.querySelector("#booking-form");
 const bookingDate = document.querySelector("#booking-date");
-const whatsappNumber = "40745466843";
+const whatsappNumber = "40700000000";
 
 if (bookingDate) {
   const today = new Date();
